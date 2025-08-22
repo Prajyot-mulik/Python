@@ -1,0 +1,6 @@
+Employee ID,Employee Name,Status,Primary Skills
+E1001,John Doe,Active,"python, snowflake, SnowSQL, AWS"
+E1002,Jane Smith,Active,"databricks, unity catalog, python"
+E1003,Robert Brown,Active,"jenkins, docker, kubernetes"
+E1004,Alice Johnson,Active,"openai, gpt, llm"
+E1005,David Wilson,Active,"claude, anthropic, snowpark"

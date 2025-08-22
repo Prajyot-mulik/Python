@@ -1,0 +1,9 @@
+Skill Category,Technology,Providers
+Data Engineering - LLM,OpenAI GPT,"OpenAI"
+Data Engineering - LLM,Claude,"Anthropic"
+Data Engineering - LLM,Gemini,"Google"
+Data Engineering - Snowflake,SnowSQL,"Snowflake"
+Data Engineering - Snowflake,Snowpark,"Snowflake"
+Data Engineering - Databricks,Unity Catalog,"Databricks"
+DevOps - CI/CD,Jenkins,"Open Source"
+DevOps - Cloud,AWS,"Amazon"
